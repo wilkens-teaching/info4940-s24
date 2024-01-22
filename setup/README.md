@@ -1,6 +1,6 @@
-# Set up a virtual environment for the course
+# Set up a Python virtual environment for the course
 
-Below are instructions to install, update, and use the correct python programming environment for the course. We'll walk through this during the first section meeting, but here's the compressed version for those who want to get a head start.
+There is no standard environment for this course. But if you want a place to start, I've set up a list of common packages that could be useful. This is what I'll be working from. Below are instructions to install, update, and use this environment.
 
 ## Concepts
 
@@ -26,21 +26,20 @@ To get things set up, you're going to:
 
 **Everything below happens in a terminal window/command prompt.**
 
-  * Open a terminal window and run `conda update conda`. (On Windows, you might have to open an "Anaconda command prompt" or similar, if you already have `conda` installed.) If it works, move to the next step. If not, download and install [`miniconda`](https://docs.conda.io/en/latest/miniconda.html).
-  * Download the course package list file from GitHub (`info-3350-packages.txt` in this `setup` directory). Pay attention to where you've saved it. Then:
+  * Open a terminal window and run `conda update conda`. (On Windows, you might have to open an "Anaconda command prompt" or similar, if you already have `conda` installed.) If it works, move to the next step. If not, download and install [`miniforge`](https://github.com/conda-forge/miniforge).
+  * Download the course package list file from GitHub (`info-4940-packages.txt` in this `setup` directory). Pay attention to where you've saved it. Then:
 
 
 ```
 conda update conda
-conda config --add channels defaults
 conda config --append channels conda-forge
-conda create --name 3350 --file info-3350-packages.txt
+conda create --name 4940 --file info-4940-packages.txt
 ```
 
   * Install some data files. You can skip the last line (installing spaCy's `en_core_web_lg` model) for now if you're tight on disk space.
 
 ```
-conda activate 3350
+conda activate 4940
 python -m nltk.downloader omw-1.4 punkt wordnet sentiwordnet snowball_data stopwords treebank vader_lexicon
 python -m spacy download en_core_web_sm
 python -m spacy download en_core_web_lg
@@ -53,22 +52,22 @@ Move on to the next section to test your installation.
   * From now on, **always and only** run `conda` (to install/update packages) and JupyterLab (to use your python environment) from the command line. Always first activate the `3350` virtual environment, like so:
 
 ```
-conda activate 3350
+conda activate 4940
 jupyter lab
 ```
 
-* If you need to update your install during the semester (unlikely, but not impossible), first re-pull the package list from GitHub, then:
+* If you need to update your install during the semester, first re-pull the package list from GitHub, then:
 
 ```
 conda update conda
-conda activate 3350
-conda update --file info-3350-packages.txt
+conda activate 4940
+conda update --file info-4940-packages.txt
 ```
 
-If we add any packages to the list (possible during the second half of the semester), you'd also need to run `conda install --file info-3350-packages.txt` as a final step to install those newly added packages.
+If we add any packages to the list, you'd also need to run `conda install --file info-4940-packages.txt` as a final step to install those newly added packages.
 
 ## The filesystem
 
-Lectures, problem sets, projects, and other course material will be distributed as Jupyter notebook files. These files, if you ever have occasion to inspect them in a text editor, are just JSON documents. In the same way that raw HTML files look like plain text with a lot of angle brackets and so on, but become rendered web pages when displayed in a browser, so too are Jupyter notebooks only really useful when rendered (unless you're a developer of the underlying system).
+Course material will be distributed as Jupyter notebook files. These files, if you ever have occasion to inspect them in a text editor, are just JSON documents. In the same way that raw HTML files look like plain text with a lot of angle brackets and so on, but become rendered web pages when displayed in a browser, so too are Jupyter notebooks only really useful when rendered (unless you're a developer of the underlying system).
 
-You need to be able to *find* your Jupyter notebook files and *open* them in a running instance of JupyterLab. **Make sure you understand where these files live on your computer.** You'll need to open them via JupyterLab's built-in file browser. You'll also need to access them via your OS and/or browser's file picker in order to upload them to CMS for grading.
+You need to be able to *find* your Jupyter notebook files and *open* them in a running instance of JupyterLab. **Make sure you understand where these files live on your computer.** You'll need to open them via JupyterLab's built-in file browser. You may also need to access them via your OS and/or browser's file picker in order to upload them for grading, etc.

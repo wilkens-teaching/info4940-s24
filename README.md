@@ -17,7 +17,7 @@
 
 ### Waitlist and prerequisites
 
-The course is currently full, but the waitlist on [Student Center](https://studentcenter.cornell.edu) should be open by the first days of class. If you would like to take the course but are not enrolled, please do attend course meetings while you wait for a PIN. It is otherwise almost impossible to catch up if you're admitted at the end of the add period. 
+The course is currently full, but the waitlist on [Student Center](https://studentcenter.cornell.edu) should be open by the first day of class. If you would like to take the course but are not enrolled, please do attend course meetings while you wait for a PIN. It is otherwise almost impossible to catch up if you're admitted at the end of the add period. 
 
 **Note that you must have successfully completed [INFO 3350](https://classes.cornell.edu/browse/roster/FA23/class/INFO/3350) (Text-Mining for History and Literature) or equivalent to enroll in the class**. If you're unsure about your preparation, talk to Prof. Wilkens directly.
 

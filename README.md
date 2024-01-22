@@ -52,7 +52,7 @@ We will use:
 * **Gradescope** (linked from Canvas) for assignment distribution and submission.
 * **Ed** (linked from Canvas) for Q&A.
 
-Links and detailed info about each of these are available via the [course Canvas site](https://canvas.cornell.edu/courses/61450).
+Links and detailed info about each of these are available via the course Canvas site.
 
 Note that you must generally be logged in through your Cornell account to access non-public resources (everything but GitHub).
 
@@ -61,7 +61,7 @@ Note that you must generally be logged in through your Cornell account to access
 Grades will be based on interim project deliverables (25% in sum), in-class presentations (15% in sum), a final project in the form of a complete scientific paper (40%), and participation and professionalism (20%). **You must achieve a passing grade in each of these components to pass the course.** Detailed weights and expectations for individual assignments will be distributed with each assignment.
 
 #### Additive grading
-Note that the assignments in this class are marked using **additive scoring**, as is standard in professional and scientific work. There are almost never uniquely correct answers to the problems posed. Graders will be looking not for mistakes (to deduct points), but for excellent work (to award points). It is possible (even common) to submit work that is entirely correct, but of low quality. Such work will receive correspondingly low scores.
+Assignments in this class are marked using **additive scoring**, as is standard in professional and scientific work. There are almost never uniquely correct answers to the problems posed. Graders will be looking not for mistakes (to deduct points), but for excellent work (to award points). It is possible (even common) to submit work that is entirely correct, but of low quality. Such work will receive correspondingly low scores.
 
 #### Grading Scale
 Grades will be assigned on the following scale:

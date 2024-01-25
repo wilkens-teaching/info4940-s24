@@ -35,7 +35,7 @@ Readings will be added in response to student interest and project directions.
 ## Week 4
 ### Tues, 2/13
 * Working session: Complete annotated bibliography
-* Due: Problem summary and analysis from bibliogrphy items
+* Due: Problem summary and analysis from bibliography items
 
 ### Thurs, 2/15
 * Working session: Preliminary problem selection

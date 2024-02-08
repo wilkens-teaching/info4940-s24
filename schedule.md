@@ -39,7 +39,7 @@ Readings will be added in response to student interest and project directions.
 
 ### Thurs, 2/15
 * Working session: Preliminary problem selection
-* Due: Problem summary, analysis, and preliminary project pitch
+* Due: Problem summary, analysis, and preliminary full project pitch
 
 ## Week 5
 ### Tues, 2/20

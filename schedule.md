@@ -34,17 +34,16 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 4
 ### Tues, 2/13
-* Working session: Finalize annotated bibliography and summarize state of knowledge
+* Working session: Finalize annotated bibliography, summarize state of knowledge, and select problem
 * Due: Ten-item annotated bibliography
 
 ### Thurs, 2/15
-* Working session: Preliminary problem selection
-* Due: Problem summary, analysis, and preliminary full project pitch
+* Working session: Data and methods selection, experiment design work
+* Due: Problem summary and analysis; data and methods pitch
 
 ## Week 5
 ### Tues, 2/20
-* Working session: Data and methods selection
-* Due: Data and methods pitch
+* Working session: Project proposal presentation prep
 
 ### Thurs, 2/22
 * Presentation: Project proposal

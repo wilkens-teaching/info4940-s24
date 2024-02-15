@@ -44,6 +44,7 @@ Readings will be added in response to student interest and project directions.
 ## Week 5
 ### Tues, 2/20
 * Working session: Project proposal presentation prep
+* Due: Presentation outline (in slides)
 
 ### Thurs, 2/22
 * Presentation: Project proposal
@@ -53,29 +54,31 @@ Readings will be added in response to student interest and project directions.
 * **No class: February break**
 
 ### Thurs, 2/29
-* Presentation: Project proposal
+* Lecture: Large language models: Overview
+* Due: Exploratory data plan
 
 ## Week 7
 ### Tues, 3/5
-* Lecture: Large language models
+* LLMs in code: Embedding spaces
 * Due: Exploratory data report
 
 ### Thurs, 3/7
-* Lecture: LLMs in code
-* Due: Datasheet for dataset
+* Lecture: LLMs in code: Zero-shot methods
+* Due: Datasheet for dataset; experiments pitch
 
 ## Week 8
 ### Tues, 3/12
-* Working session: Data curation and experimental design
+* Working session: Experimental design
 * Due: Experiment pitch
 
 ### Thurs, 3/14
-* Working session: Preliminary results
-* Due: Results synopsis
+* Lecture: Multilingual models
+* Due: Account of experimental progress
 
 ## Week 9
 ### Tues, 3/19
-* Presentation: Preliminary results
+* Working session: Preliminary results
+* Due: Results synopsis
 
 ### Thurs, 3/21
 * Presentation: Preliminary results
@@ -83,7 +86,7 @@ Readings will be added in response to student interest and project directions.
 ## Week 10
 ### Tues, 3/26
 * Lecture: Building custom models
-* Due: Revision plan and experiment pitch
+* Due: Revision plan and additional experiments pitch
 
 ### Thurs, 3/28
 * Working session: Detailed plan for revisions and new experiments

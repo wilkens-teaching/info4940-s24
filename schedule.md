@@ -68,8 +68,8 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 8
 ### Tues, 3/12
-* Working session: Experimental design
-* Due: Experiment pitch
+* Working session: Experimental design and refinement
+* Due: Account of experimental progress
 
 ### Thurs, 3/14
 * Lecture: Multilingual models

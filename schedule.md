@@ -64,12 +64,12 @@ Readings will be added in response to student interest and project directions.
 
 ### Thurs, 3/7
 * Lecture: LLMs in code: Zero-shot methods
-* Due: Datasheet for dataset; experiments pitch
+* Due: Experiments pitch
 
 ## Week 8
 ### Tues, 3/12
 * Working session: Experimental design and refinement
-* Due: Account of experimental progress
+* Due: Datasheet for dataset; brief account of experimental progress
 
 ### Thurs, 3/14
 * Lecture: Multilingual models

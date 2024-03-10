@@ -63,13 +63,13 @@ Readings will be added in response to student interest and project directions.
 * Due: Exploratory data report
 
 ### Thurs, 3/7
-* Lecture: LLMs in code: Zero-shot methods
-* Due: Datasheet for dataset; experiments pitch
+* Working session: Experimental design and refinement
+* Due: Experiments pitch
 
 ## Week 8
 ### Tues, 3/12
-* Working session: Experimental design
-* Due: Experiment pitch
+* Lecture: LLMs in code: Zero-shot methods
+* Due: Datasheet for dataset; brief account of experimental progress
 
 ### Thurs, 3/14
 * Lecture: Multilingual models
@@ -130,4 +130,4 @@ Readings will be added in response to student interest and project directions.
 * Final class meeting
 
 ## Finals week
-* Final report due on [date to be determined](https://registrar.cornell.edu/exams/spring-final-exam-schedule) by the Office of the University Registrar
+* Final report due on Thursday, 5/16/2024, at 4:30p. This due date has been set by the Office of the University Registrar and cannot be changed.

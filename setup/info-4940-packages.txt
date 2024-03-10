@@ -18,6 +18,8 @@ requests
 scikit-image
 scikit-learn
 seaborn
+sentence-transformers
+sentencepiece
 shap
 spacy
 statsmodels

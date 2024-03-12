@@ -68,11 +68,11 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 8
 ### Tues, 3/12
-* Lecture: LLMs in code: Finetuning and zero-shot methods
+* Lecture: LLMs in code: Finetuning
 * Due: Datasheet for dataset; brief account of experimental progress
 
 ### Thurs, 3/14
-* Lecture: Multilingual models
+* Lecture: Zero-shot methods
 * Due: Account of experimental progress
 
 ## Week 9
@@ -85,7 +85,7 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 10
 ### Tues, 3/26
-* Lecture: Building custom models
+* Lecture: Multilingual models
 * Due: Revision plan and additional experiments pitch
 
 ### Thurs, 3/28
@@ -96,11 +96,11 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 12
 ### Tues, 4/9
-* Lecture: Model interpretation and explainability
+* Lecture: Building custom models
 * Due: Status report
 
 ### Thurs, 4/11
-* Lecture: TBD as needs and interests dictate
+* Lecture: Model interpretation and explainability
 * Due: Completion plans
 
 ## Week 13

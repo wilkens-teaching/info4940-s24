@@ -68,7 +68,7 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 8
 ### Tues, 3/12
-* Lecture: LLMs in code: Zero-shot methods
+* Lecture: LLMs in code: Finetuning and zero-shot methods
 * Due: Datasheet for dataset; brief account of experimental progress
 
 ### Thurs, 3/14

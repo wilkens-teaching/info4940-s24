@@ -26,3 +26,6 @@ statsmodels
 tqdm
 transformers[torch]
 umap-learn
+vegafusion
+vegafusion-python-embed
+vl-convert-python

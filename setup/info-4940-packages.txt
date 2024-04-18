@@ -2,6 +2,7 @@ accelerate
 adjusttext
 altair
 bs4
+captum
 ipywidgets
 jieba
 jupyterlab

@@ -100,26 +100,26 @@ Readings will be added in response to student interest and project directions.
 * Due: Status report
 
 ### Thurs, 4/11
-* Lecture: Model interpretation and explainability
+* Class canceled 
 * Due: Completion plans
 
 ## Week 13
 ### Tues, 4/16
-* Lecture: Scientific writing
+
+* Lecture: Model interpretation and explainability
 * Due: Status report
 
 ### Thurs, 4/18
-* Working session: Begin writing
-* Due: Authorship plan
+* Class canceled
 
 ## Week 14
 ### Tues, 4/23
-* Lecture: Uncertainty, visualization, and trust
-* Due: Sample visualization or table
+* Lecture: Uncertainty, visualization, and trust; Scientific writing
 
 ### Thurs, 4/25
-* Lecture: Giving a talk
-* Due: Presentation plan
+* Lecture: Giving a talk; working time as possible
+* Due: Authorship plan
+* Due: Sample visualization or table
 
 ## Week 15
 * **Final presentations**

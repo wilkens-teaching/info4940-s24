@@ -114,15 +114,16 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 14
 ### Tues, 4/23
-* Lecture: Uncertainty, visualization, and trust; Scientific writing
+* Lecture: Uncertainty, visualization, and trust
 
 ### Thurs, 4/25
-* Lecture: Giving a talk; working time as possible
-* Due: Authorship plan
+* Lecture: Scientific writing and giving a talk. Working time as possible.
 * Due: Sample visualization or table
 
 ## Week 15
 * **Final presentations**
+* Due Thursday, 5/2: Authorship plan
+
 
 ## Week 16
 ### Tues, 5/7

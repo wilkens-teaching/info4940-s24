@@ -122,8 +122,8 @@ Readings will be added in response to student interest and project directions.
 
 ## Week 15
 * **Final presentations**
+* Due Tuesday, 4/30: Link to presentation slides
 * Due Thursday, 5/2: Authorship plan
-
 
 ## Week 16
 ### Tues, 5/7
